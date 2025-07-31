@@ -1,4 +1,4 @@
-Michael Dolgov - Software Engineer
+Michael Dolgov - Software Engineer & CompSci enjoyer :floppy_disk:
 
 ## Major Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,cs&theme=dark&perline=15)](https://skillicons.dev)
