@@ -7,4 +7,4 @@ Michael Dolgov - Software Engineer & CompSci enjoyer :floppy_disk:
 ## Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,react,electron,qt,dotnet,selenium&theme=dark&perline=15)](https://skillicons.dev)
 ## Other technologies
-[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bash,redis,postgresql,docker,nginx,cmake,postman,heroku,git,markdown,vim,latex,css,html&theme=dark&perline=21)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,arch,kali,bash,redis,postgresql,docker,nginx,cmake,postman,heroku,git,markdown,vim,latex,css,html,vite&theme=dark&perline=21)](https://skillicons.dev)
