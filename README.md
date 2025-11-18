@@ -1,7 +1,7 @@
 Michael Dolgov - Software Engineer & CompSci enjoyer :floppy_disk:
 
 ## Major Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,rust&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,go&theme=dark&perline=15)](https://skillicons.dev)
 ## Minor Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=javascript,lua,ruby,cs&theme=dark&perline=15)](https://skillicons.dev)
 ## Frameworks & Libraries
