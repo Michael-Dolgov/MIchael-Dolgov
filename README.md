@@ -1,5 +1,5 @@
 ## Major Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,go&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp&theme=dark&perline=15)](https://skillicons.dev)
 ## Minor Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=javascript,lua,ruby,cs&theme=dark&perline=15)](https://skillicons.dev)
 ## Frameworks & Libraries
