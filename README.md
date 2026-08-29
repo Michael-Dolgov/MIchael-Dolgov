@@ -1,7 +1,7 @@
 ## Major Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,go,rust&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,go,cs&theme=dark&perline=15)](https://skillicons.dev)
 ## Minor Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=javascript,lua,ruby,cs,r,java&theme=dark&perline=15)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,lua,ruby,r,java,rust&theme=dark&perline=15)](https://skillicons.dev)
 ## Frameworks & Libraries
 [![My Skills](https://skillicons.dev/icons?i=flask,fastapi,react,svelte,qt,dotnet&theme=dark&perline=15)](https://skillicons.dev)
 ## Other technologies
